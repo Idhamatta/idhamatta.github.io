@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+I’m student from Sriwijaya University with a major in Informatic Engineering. I have great ideas that I would like to put into practice and I am hard-working, discipline and able to communicate well and enjoy working in a team. Front-end, Back-end and Flutter Mobile Enthusiast.
